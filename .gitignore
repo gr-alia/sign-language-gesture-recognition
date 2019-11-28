@@ -112,6 +112,7 @@ train_videos/
 test_videos/
 train_frames/
 test_frames/
+dump/
 
 training_summaries/
 
