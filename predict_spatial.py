@@ -8,7 +8,8 @@ import numpy as np
 import os
 import pickle
 import sys
-import tensorflow.compat.v1 as tf
+#import tensorflow.compat.v1 as tf
+import tensorflow as tf
 from tqdm import tqdm
 
 
